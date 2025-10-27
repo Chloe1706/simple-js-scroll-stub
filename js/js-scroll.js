@@ -1,4 +1,4 @@
-// get a refrence to all elements with the js-scroll class
+// get a reference to all elements with the js-scroll class
 const scrollElements = document.querySelectorAll('.js-scroll');
 scrollElements.forEach(function (el) {
   // the first parameter is a reference to an individual scollElement
@@ -70,4 +70,5 @@ function throttle(fn, wait) {
     }
   };
 };
+
 
