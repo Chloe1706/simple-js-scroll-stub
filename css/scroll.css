@@ -14,7 +14,7 @@ h1{
 header{
     height:600px;
     line-height: 600px;
-    border: gray 1px solid;
+    border: rgb(9, 9, 9) 1px solid;
 }
 #container{
     width:800px;
@@ -24,4 +24,6 @@ header{
 .scroll-element{
     height:600px;
     line-height:600px;
+    border: rgb(174, 174, 174) 1px solid; 
 }
+
